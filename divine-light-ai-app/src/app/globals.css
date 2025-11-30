@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --noor-white: #f8f9fa;
+  --spiritual-gold: #d4af37;
+  --sky-blue: #87ceeb;
+  --deep-purple: #6a0dad;
+  --emerald-green: #50c878;
+}
+
+body {
+  background: linear-gradient(135deg, var(--noor-white) 0%, var(--sky-blue) 100%);
+  min-height: 100vh;
+}
+
+.heavenly-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.spiritual-glow {
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+}

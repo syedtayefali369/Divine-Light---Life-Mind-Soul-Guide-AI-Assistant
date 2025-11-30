@@ -1,7 +1,7 @@
 # Divine-Light---Life-Mind-Soul-Guide-AI-Assistant
 
-Divine Light - Life,Mind &amp; Soul Guide AI Assistant
-Core AI-Powered Features**
+Divine Light - Life,Mind & Soul Guide AI Assistant
+Core AI-Powered Features
 
 #### 1. **Intelligent Problem Detection**
 ```
@@ -24,3 +24,28 @@ Core AI-Powered Features**
 - **Guided Dhikr Sessions** with soothing voice
 - **Dua Generator** for specific life situations
 - **Meditation with Spiritual Visualizations*
+
+```
+Divine-Light-AI-app/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   └── components/
+│       ├── EmotionSelector.tsx
+│       ├── TasbeehCounter.tsx
+│       ├── QuoteGenerator.tsx
+│       └── UI/
+│           ├── HeavenlyBackground.tsx
+│           └── LoadingSpinner.tsx
+├── lib/
+│   ├── firebase.ts
+│   ├── quotes-database.ts
+│   └── ai-recommendations.ts
+├── public/
+│   ├── images/
+│   └── sounds/
+└── types/
+    └── index.ts
+```
+..
