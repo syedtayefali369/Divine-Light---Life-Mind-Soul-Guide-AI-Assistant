@@ -1,4 +1,4 @@
-# Divine-Light---Life-Mind-Soul-Guide-AI-Assistant
+# Divine-Light-Spritual-AI-Assistant
 
 Divine Light - Life,Mind & Soul Guide AI Assistant
 Core AI-Powered Features
